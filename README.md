@@ -4,4 +4,4 @@
 
 ###Here check out a project me and my partner created.
 
-https://scratch.mit.edu/projects/369066790/editor
+https://scratch.mit.edu/projects/369066790
